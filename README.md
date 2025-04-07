@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning using github and programming!
+- 🌱 I’m currently learning using github and programming(mainly python)!
